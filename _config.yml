@@ -1,0 +1,3 @@
+name: Bare Jekyll Site
+markdown: redcarpet
+pygments: true
