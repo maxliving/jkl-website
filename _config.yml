@@ -1,3 +1,14 @@
-name: Bare Jekyll Site
-markdown: redcarpet
+name: "Max Livingston (sitename)"
+description: "deskripshun"
+markdown: kramdown
+url: http://localhost:4000
 pygments: true
+title: "Max Livingston (title)"
+
+author:
+  name: maxlivingston
+  email: maxliving@gmail.com
+  github: maxliving
+  linkedin: maxlivingston
+  bio: Your stylish, minimalist theme!
+  email_md5:
