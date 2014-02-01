@@ -3,14 +3,12 @@ layout: default
 title: Max Livingston
 ---
 
+<br>
+
 {% include contact_list.html %}
 
-Hello and welcome! I am currently a research analyst at the New York Fed, where I focus on applied microeconomics. My work at the Fed has covered topics ranging from land price modeling to school district finances. I attended Wesleyan University, where I wrote my thesis about the effects of teacher unionization. In all these ventures, I use a combination of Python, R, Stata, and SAS.
 
----
-	
-## Recent Projects 
-
+Hello and welcome! I am currently a research analyst at the New York Fed, where I focus on applied microeconomics. My work at the Fed covers topics ranging from land price modeling to school district finances. I attended Wesleyan University, where I wrote my thesis about the effects of teacher unionization. In all these ventures, I use a combination of Python, R, Stata, and SAS.
 
 ---
 
