@@ -1,3 +1,3 @@
-# A Bare Jekyll Setup
+# Jekyll/Bootstrap website
 
-Just displays Markdown notes, nothin' more.
+My personal website source code, created w/jekyll and bootstrap.
