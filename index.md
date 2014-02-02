@@ -35,7 +35,7 @@ Hello and welcome! I am currently a research analyst at the New York Fed, where 
 : with Rajashri Chakrabarti and Joydeep Roy. *Staff Reports*, Federal Reserve Bank of NY, October 2013.
 
 * [Historical Echoes: The Changing Face of Education in the United States](http://libertystreeteconomics.newyorkfed.org/2013/09/historical-echoes-the-changing-face-of-education-in-the-united-states.html),
-: with Rajashri Chakrabarti and Amy Farber. Liberty Street Economics Blog, September, 2013.
+: with Rajashri Chakrabarti and Amy Farber. Liberty Street Economics Blog, September 2013.
 
 * [Still Not Out of the Woods? New Jersey Schools during the Recession and Beyond](http://www.newyorkfed.org/research/staff_reports/sr632.pdf),
 : with Rajashri Chakrabarti. *Staff Reports*, Federal Reserve Bank of NY, September 2013.
