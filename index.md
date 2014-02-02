@@ -13,19 +13,19 @@ I am currently a research analyst at the New York Fed, where I focus on applied 
 
 ## Publications & Working Papers
 
-#### -Consumer Expectations-
+#### Consumer Expectations
 * [(Unmet) Credit Demand of American Households](http://libertystreeteconomics.newyorkfed.org/2013/11/unmet-credit-demand-of-american-households.html),
 : with Basit Zafar and Wilbert van der Klaauw. Liberty Street Economics Blog, November 2013.
 
 * [My Two (Per)cents: How Are American Workers Dealing with the Payroll Tax Hike?](http://libertystreeteconomics.newyorkfed.org/2013/05/my-two-percents-how-are-american-workers-dealing-with-the-payroll-tax-hike.html), 
 : with Basit Zafar and Wilbert van der Klaauw. Liberty Street Economics Blog, May 2013.
 
-#### -Sandy Impact Analysis-
+#### Sandy Impact Analysis
 * [The Impact of Superstorm Sandy on New York City School Closures and Attendance](http://libertystreeteconomics.newyorkfed.org/2012/12/the-impact-of-superstorm-sandy-on-new-york-city-school-closures-and-attendance.html), 
 : with Rajashri Chakrabarti. Liberty Street Economics Blog, December 2012.
 : - [Featured on the Huffington Post](http://www.huffingtonpost.com/rajashri-chakrabarti/hurricane-sandy-school-days_b_2360754.html)
 
-#### -School District Finances-
+#### School District Finances
 * The Impact of the Great Recession on School District Finances: Evidence from New York,
 : with Rajashri Chakrabarti and Elizabeth Setren, *Economic Policy Review* (Forthcoming).
 
@@ -46,6 +46,6 @@ I am currently a research analyst at the New York Fed, where I focus on applied 
 * [Just Released: Mapping Changes in School Finance](http://libertystreeteconomics.newyorkfed.org/2013/07/just-released-mapping-changes-in-school-finances.html), 
 : with Rajashri Chakrabarti. Liberty Street Economics Blog, July 2013.
 
-#### -Undergraduate Thesis-
+#### Undergraduate Thesis
 * [The Effect of Teachers' Unions on District Performance or: "Hey Teacher! Leave Them Kids Alone?"](http://wesscholar.wesleyan.edu/cgi/viewcontent.cgi?article=1853&context=etd_hon_theses),
 : Wesleyan University, May 2013.
