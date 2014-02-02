@@ -7,7 +7,7 @@ title: Max Livingston
 {% include contact_list.html %}
 <hr style="height:1px; visibility:hidden; margin:8px;" />
 
-Hello and welcome! I am currently a research analyst at the New York Fed, where I focus on applied microeconomics. My work at the Fed covers topics ranging from land price modeling to school district finances. I attended Wesleyan University, where I wrote my thesis about the effects of teacher unionization. In all these ventures, I use a combination of Python, R, Stata, and SAS.
+Hello and welcome! I am currently a research analyst at the New York Fed, where I focus on applied microeconomics. My work at the Fed covers topics ranging from land price modeling to school district finances. I attended Wesleyan University, where I majored in economics and wrote my thesis about the effects of teacher unionization. In all these ventures, I use a combination of Python, R, Stata, and SAS.
 
 ---
 
@@ -24,7 +24,7 @@ Hello and welcome! I am currently a research analyst at the New York Fed, where 
 #### -Sandy Impact Analysis-
 * [The Impact of Superstorm Sandy on New York City School Closures and Attendance](http://libertystreeteconomics.newyorkfed.org/2012/12/the-impact-of-superstorm-sandy-on-new-york-city-school-closures-and-attendance.html), 
 : with Rajashri Chakrabarti. Liberty Street Economics Blog, December 2012.
-: - [Featured on the Huffington Post!](http://www.huffingtonpost.com/rajashri-chakrabarti/hurricane-sandy-school-days_b_2360754.html)
+: - [Featured on the Huffington Post](http://www.huffingtonpost.com/rajashri-chakrabarti/hurricane-sandy-school-days_b_2360754.html)
 
 #### -School District Finances-
 * The Impact of the Great Recession on School District Finances: Evidence from New York,
@@ -38,15 +38,15 @@ Hello and welcome! I am currently a research analyst at the New York Fed, where 
 
 * [Still Not Out of the Woods? New Jersey Schools during the Recession and Beyond](http://www.newyorkfed.org/research/staff_reports/sr632.pdf),
 : with Rajashri Chakrabarti. *Staff Reports*, Federal Reserve Bank of NY, September 2013.
-: - [(Accompanying blog post)](http://libertystreeteconomics.newyorkfed.org/2013/09/catching-up-or-falling-behind-new-jersey-schools-in-the-aftermath-of-the-great-recession.html) 
+: - [Accompanying blog post](http://libertystreeteconomics.newyorkfed.org/2013/09/catching-up-or-falling-behind-new-jersey-schools-in-the-aftermath-of-the-great-recession.html) 
 
 * [The Long Road to Recovery: New York Schools in the Aftermath of the Great Recession](http://www.newyorkfed.org/research/staff_reports/sr631.pdf),
 : with Rajashri Chakrabarti. *Staff Reports*, Federal Reserve Bank of NY, September 2013.
-: - [(Accompanying blog post)](http://libertystreeteconomics.newyorkfed.org/2013/09/waiting-for-recovery-new-york-schools-and-the-aftermath-of-the-great-recession.html)
+: - [Accompanying blog post](http://libertystreeteconomics.newyorkfed.org/2013/09/waiting-for-recovery-new-york-schools-and-the-aftermath-of-the-great-recession.html)
 
 * [Just Released: Mapping Changes in School Finance](http://libertystreeteconomics.newyorkfed.org/2013/07/just-released-mapping-changes-in-school-finances.html), 
 : with Rajashri Chakrabarti. Liberty Street Economics Blog, July 2013.
 
-#### -Undergrad Thesis-
+#### -Undergraduate Thesis-
 * [The Effect of Teachers' Unions on District Performance or: "Hey Teacher! Leave Them Kids Alone?"](http://wesscholar.wesleyan.edu/cgi/viewcontent.cgi?article=1853&context=etd_hon_theses),
-: May 2013.
+: Wesleyan University, May 2013.
