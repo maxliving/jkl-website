@@ -1,0 +1,109 @@
+% LaTeX file for resume 
+% This file uses the resume document class (res.cls)
+
+\documentclass{res} 
+\usepackage{verbatim}
+\usepackage[left=1.cm, right=0cm, top=1cm, bottom=1cm]{geometry}
+\usepackage[T1]{fontenc}
+\usepackage{lmodern}
+\usepackage{comment}
+\usepackage{hyperref}
+\hypersetup{colorlinks,urlcolor=blue}
+% \newcommand{\comment}[2]{#2}
+
+% \usepackage{garamond}
+
+% the margin option causes section titles to appear to the left of body text 
+\resumewidth=7.75in % increase textwidth to get smaller right margin
+% \usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
+% \usepackage{newcent}   % uses new century schoolbook postscript font 
+\newsectionwidth{20pt} 
+
+\begin{document} 
+\setlength{\parskip}{5.2pt}
+\renewcommand{\labelitemi}{\scriptsize$\bullet$} 
+
+\name{{\huge Max Livingston} \hspace{90 mm} maxliving@gmail.com} 
+\address{}
+\address{\href{http://maxlivingston.org}{maxlivingston.org} | \href{http://github.com/maxliving}{github.com/maxliving}}
+
+\begin{resume} 
+
+
+\section{Education} 
+  {\bf Columbia University,} New York, NY \hfill May 2013 -- Present
+  \begin{itemize} \itemsep -2pt
+  \item Graduate statistics coursework in Data Mining, Machine Learning, and Probability.
+  \end{itemize}
+  {\bf Wesleyan University,} Middletown, CT \hfill September 2008 -- May 2012
+  \begin{itemize} \itemsep -2pt
+  \item Awarded High Honors in Economics for thesis analyzing the effect of teachers' unions on school district performance.
+  \item BA in Economics; 3.84 GPA; Phi Beta Kappa, Dean's List
+  \end{itemize}
+
+  {\bf Stuyvesant High School,} New York, NY \hfill September 2004 -- June 2008
+  
+  % \setlength{\parsep}{-4pt}
+
+  \section{Employment}
+
+  {\bf Federal Reserve Bank of New York,} {\it Senior Research Analyst}  \hfill  July 2012 -- Present
+  \begin{itemize} \itemsep -1.5pt %reduce space between items
+  \item Program extensively in Stata, SAS, and R to perform econometric analyses that aid economic research projects and inform monetary policy decisions.
+%  \item Conduct econometric analyses and create presentations to help inform monetary policy recommendations.
+  \item Specific projects include 
+    \setlength{\parskip}{-1.75pt} 
+    \begin{itemize}
+      \setlength{\itemsep}{1.5pt}
+    \item Working on a team to develop a panel survey studying consumer expectations about the economy and inflation. Lead team of three analysts to develop and maintain critical programs that produce public data as well as internal ad-hoc analyses.
+    \item Multiple blogs and research papers (\href{http://bit.ly/19dFTkh}{http://bit.ly/19dFTkh}) studying the effect of the recession and stimulus on school district finances.
+    \item Using GIS to map NYC public school closures and relocations after Superstorm Sandy; discussed results in a post on the NY Fed blog (\href{http://bit.ly/1eDE1Ja}{http://bit.ly/1eDE1Ja}).
+    \item Using regression discontinuity techniques to determine the effect of failing No Child Left Behind standards on schools' test scores in the following year.
+    
+    \end{itemize}
+  \end{itemize}
+
+  {\bf Argus Information and Advisory Services,} {\it Summer Analyst} \hfill Summer 2011
+  \begin{itemize} \itemsep -2pt
+  \item Wrote SQL code to manipulate and segment large datasets (tens of millions of observations) using variables such as customer risk, behavior, and spending to find pockets of opportunity for client banks
+  \item Created final Excel and Powerpoint deliverables for monthly client presentations and ad-hoc analysis requests
+  \item Specific projects included \setlength{\parskip}{-1.75pt} \begin{itemize}
+      \setlength{\itemsep}{1.5pt}
+    \item Determining causes of credit card customer attrition and deleveraging through analysis of interest rates, credit lines, and rewards
+    \item Tracking performance of secured card customers and determining the effectiveness of the bank's attempts to retain them
+    \end{itemize}
+  \end{itemize}
+
+  {\bf Program on Terrorism and Insurgency Research,} {\it Research Assistant}  \hfill  September 2010 -- May 2011
+  \begin{itemize} \itemsep -2pt %reduce space between items
+  \item Collected and coded data on insurgency and counter-insurgency campaigns in order to produce a database of insurgency campaigns to be used for research in the counter-terrorism policy field
+  \item Parsed historical documents and primary sources to construct database of insurgency campaigns
+    % \item Researched determinants of counterinsurgency policy
+  \end{itemize}
+
+  {\bf Internal Drive Tech Camps,} {\it Instructor} \hfill Summer 2010
+  \begin{itemize} \itemsep -2pt  % reduce space between items
+  \item Taught classes in introductory computer programming using Java to pre-teens and teenagers.
+  \end{itemize}
+  
+  \section{Selected Publications \& Working Papers} 
+  \href{http://bit.ly/Jcg8dC}{``Still Not Out of the Woods? New Jersey Schools during the Recession and Beyond,''} with Rajashri Chakrabarti (2013) (http://bit.ly/Jcg8dC). 
+
+  ``The Impact of the Great Recession on School District Finances: Evidence from New York,'' with Rajashri Chakrabarti and Elizabeth Setren, {\it Economic Policy Review} (Forthcoming).
+
+  \href{http://bit.ly/1fFXJ3t}{``My Two (Per)cents: How Are American Workers Dealing with the Payroll Tax Hike?,''} with Basit Zafar and Wilbert van der Klaauw, {\it Liberty Street Economics Blog}, May 2013 (http://bit.ly/1fFXJ3t).
+
+  A complete list is available at: \href{http://maxlivingston.org}{maxlivingston.org}
+  \section{Skills}
+  \begin{itemize} \itemsep -2pt
+  \item R, Stata, SAS, SQL, Java, Python, GIS, \LaTeX, Git, Microsoft Excel, Powerpoint
+  %\item Conversational Mandarin
+    % \item Poker, Violin, French cuisine
+  \end{itemize}
+
+\end{resume} 
+
+\end{document} 
+
+
+
