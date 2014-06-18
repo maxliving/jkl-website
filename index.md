@@ -7,11 +7,11 @@ title: Max Livingston
 {% include contact_list.html %}
 <hr style="height:1px; visibility:hidden; margin:8px;" />
 
-I am currently a research analyst at the New York Fed, where I focus on applied microeconomics. My work at the Fed covers topics ranging from land price modeling to school district finances. I attended Wesleyan University, where I majored in economics and wrote my thesis about the effects of teacher unionization. I use a combination of Python, R, Stata, and SAS.
+I am currently a data analyst at [Knewton](http://knewton.com). Before that I was a research analyst at the New York Fed, where I focused on applied microeconomics. I attended Wesleyan University, where I majored in economics and wrote my thesis about the effects of teacher unionization.
 
 ---
 
-## Publications & Working Papers
+## Publications, Blogs, & Working Papers
 
 #### Consumer Expectations
 * [(Unmet) Credit Demand of American Households](http://libertystreeteconomics.newyorkfed.org/2013/11/unmet-credit-demand-of-american-households.html),
@@ -19,6 +19,9 @@ I am currently a research analyst at the New York Fed, where I focus on applied 
 
 * [My Two (Per)cents: How Are American Workers Dealing with the Payroll Tax Hike?](http://libertystreeteconomics.newyorkfed.org/2013/05/my-two-percents-how-are-american-workers-dealing-with-the-payroll-tax-hike.html), 
 : with Basit Zafar and Wilbert van der Klaauw. Liberty Street Economics Blog, May 2013.
+
+* [Rising Household Debt: Increasing Demand or Increasing Supply?](http://libertystreeteconomics.newyorkfed.org/2014/05/rising-household-debt-increasing-demand-or-increasing-supply.html),
+: with Basit Zafar and Wilbert van der Klaauw. Liberty Street Economics Blog, May 2014.
 
 #### Sandy Impact Analysis
 * [The Impact of Superstorm Sandy on New York City School Closures and Attendance](http://libertystreeteconomics.newyorkfed.org/2012/12/the-impact-of-superstorm-sandy-on-new-york-city-school-closures-and-attendance.html), 
