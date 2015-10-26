@@ -7,7 +7,7 @@ title: Max Livingston
 {% include contact_list.html %}
 <hr style="height:1px; visibility:hidden; margin:8px;" />
 
-I am currently a data analyst at [Knewton](http://knewton.com). Before that I was a research analyst at the New York Fed, where I focused on applied microeconomics. I attended Wesleyan University, where I majored in economics and wrote my thesis about the effects of teacher unionization.
+I am currently a data scientist at [Knewton](http://knewton.com), where I work on models that power adaptive courses. Before that I was a research analyst at the New York Fed, where I focused on applied microeconomics. I attended Wesleyan University, where I majored in economics and wrote my thesis about the effects of teacher unionization.
 
 ---
 
@@ -29,11 +29,11 @@ I am currently a data analyst at [Knewton](http://knewton.com). Before that I wa
 : - [Featured on the Huffington Post](http://www.huffingtonpost.com/rajashri-chakrabarti/hurricane-sandy-school-days_b_2360754.html)
 
 #### School District Finances
-* The Impact of the Great Recession on School District Finances: Evidence from New York,
-: with Rajashri Chakrabarti and Elizabeth Setren, *Economic Policy Review* (Forthcoming).
+* [The Impact of the Great Recession on School District Finances: Evidence from New York](http://www.ny.frb.org/research/epr/2015/EPR_2015_great-recessions-impact-on-school-district-finances-in-NYC_chakrabarti.html),
+: with Rajashri Chakrabarti and Elizabeth Setren, *Economic Policy Review*, October 2015.
 
-* [Did Cuts in State Aid during the Great Recession Lead to Changes in Local Property Taxes?](http://www.newyorkfed.org/research/staff_reports/sr643.pdf),
-: with Rajashri Chakrabarti and Joydeep Roy. *Staff Reports*, Federal Reserve Bank of NY, October 2013.
+* [Did Cuts in State Aid during the Great Recession Lead to Changes in Local Property Taxes?](http://www.mitpressjournals.org/toc/edfp/9/4),
+: with Rajashri Chakrabarti and Joydeep Roy. *Education Finance and Policy*, Fall 2014.
 
 * [Historical Echoes: The Changing Face of Education in the United States](http://libertystreeteconomics.newyorkfed.org/2013/09/historical-echoes-the-changing-face-of-education-in-the-united-states.html),
 : with Rajashri Chakrabarti and Amy Farber. Liberty Street Economics Blog, September 2013.
