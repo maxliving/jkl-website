@@ -7,9 +7,6 @@
 ## Build first, b/c we need to generate the site files before git pushing.
 jekyll build
 
-## Should prompt for description:
-git commit -a
-
 ## Push
 git push
 
