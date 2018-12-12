@@ -7,7 +7,7 @@ title: Max Livingston
 {% include contact_list.html %}
 <hr style="height:1px; visibility:hidden; margin:8px;" />
 
-I am currently a data scientist at [Knewton](http://knewton.com), where I work on models that power adaptive courses. Before that I was a research analyst at the New York Fed, where I focused on applied microeconomics. I attended Wesleyan University, where I majored in economics and wrote my thesis about the effects of teacher unionization.
+I am currently a data scientist at [Freebird](http://getfreebird.com), where I build models of flight delays and disruptions for the purpose of risk pricing. Before that I was a data scientist at [Knewton](http://knewton.com), where I worked on proficiency models and recommendation systems for adaptive learning. My background is originally in econoimcs -- I wrote my undergrad thesis about the effects of teacher unionization on school district spending and performance, and then worked at the New York Fed, where I continued primarily researching education economics.
 
 ---
 

@@ -3,7 +3,7 @@
 
 \documentclass{res} 
 \usepackage{verbatim}
-\usepackage[left=1.cm, right=0cm, top=1cm, bottom=1cm]{geometry}
+\usepackage[left=1.cm, right=1cm, top=1cm, bottom=1cm]{geometry}
 \usepackage[T1]{fontenc}
 \usepackage{lmodern}
 \usepackage{comment}
@@ -14,91 +14,98 @@
 % \usepackage{garamond}
 
 % the margin option causes section titles to appear to the left of body text 
-\resumewidth=7.75in % increase textwidth to get smaller right margin
+\resumewidth=7.0in % increase textwidth to get smaller right margin
 % \usepackage{helvetica} % uses helvetica postscript font (download helvetica.sty)
 % \usepackage{newcent}   % uses new century schoolbook postscript font 
 \newsectionwidth{20pt} 
 
 \begin{document} 
-\setlength{\parskip}{5.2pt}
+\setlength{\parskip}{10pt}
 \renewcommand{\labelitemi}{\scriptsize$\bullet$} 
 
-\name{{\huge Max Livingston} \hspace{90 mm} maxliving@gmail.com} 
-\address{}
-\address{\href{http://maxlivingston.org}{maxlivingston.org} | \href{http://github.com/maxliving}{github.com/maxliving}}
+\name{{\huge Max Livingston} \hspace{73 mm} maxliving@gmail.com} 
+\address{\hspace{2pt} (917) 536-7410}
+\address{\href{http://maxlivingston.org}{maxlivingston.org}}
 
 \begin{resume} 
-
-
-\section{Education} 
-  {\bf Columbia University,} New York, NY \hfill May 2013 -- December 2013
-  \begin{itemize} \itemsep -2pt
-  \item Graduate non-degree statistics coursework in Data Mining, Machine Learning, and Probability.
-  \end{itemize}
-  {\bf Wesleyan University,} Middletown, CT \hfill September 2008 -- May 2012
-  \begin{itemize} \itemsep -2pt
-  \item Awarded High Honors in Economics for thesis analyzing the effect of teachers' unions on school district performance.
-  \item BA in Economics; 3.84 GPA; Phi Beta Kappa, Dean's List
-  \end{itemize}
-
-  {\bf Stuyvesant High School,} New York, NY \hfill September 2004 -- June 2008
-  
-  % \setlength{\parsep}{-4pt}
-
   \section{Employment}
+  {\bf Knewton} \\ 
+  \null {\it Data Scientist} (May 2014 -- Sep 2016)
+  \begin{itemize} \itemsep 2.0pt %reduce space between items
+  \item Design \& build Bayesian models of student learning and engagement that power Knewton's adaptive courses
+  \item Write production code in Java implementing online machine learning algorithms to deliver real-time recommendations
+  \item Contribute to in-house Python library for researching student proficiency using Item Response Theory and Bayes Nets (portions of which are open-source here: \href{https://github.com/Knewton/edm2016}{https://github.com/Knewton/edm2016})
+  % \item Specific projects include 
+  %   \setlength{\parskip}{-1.75pt} 
+  %   \begin{itemize}
+  %     \setlength{\itemsep}{1.5pt}
+  \item Built new model to predict how long students spend on pieces of content using a Gaussian Mixture Model; developed initial idea and gathered requirements, prototyped and analyzed the model in Python, and implemented it in Java
+    %\item Modeling the strength of concept pre-requisite relationships to produce better remediation strategies and provide insights into publisher content
+  \item Re-wrote a key component of the recommendation engine to simplify its logic and drastically improve its speed
+    %\item Co-leading a weekly dashboard meeting of approximately 10 data scientists and engineers to better understand how our exisiting models are performing and track predictive accuracy metrics
+    
+  %  \end{itemize}
+  \end{itemize}
 
-  {\bf Federal Reserve Bank of New York,} {\it Senior Research Analyst}  \hfill  July 2012 -- Present
-  \begin{itemize} \itemsep -1.5pt %reduce space between items
+  {\bf Federal Reserve Bank of New York}  \\
+  \null {\it Senior Research Analyst} (Jan 2013 -- May 2014); {\it Research Analyst} (July 2012 -- Jan 2013)
+  \begin{itemize} \itemsep 2.0pt %reduce space between items
   \item Program extensively in Stata, SAS, and R to perform econometric analyses that aid economic research projects and inform monetary policy decisions.
 %  \item Conduct econometric analyses and create presentations to help inform monetary policy recommendations.
-  \item Specific projects include 
+  \item Specific projects include
     \setlength{\parskip}{-1.75pt} 
     \begin{itemize}
       \setlength{\itemsep}{1.5pt}
-    \item Working on a team to develop a panel survey studying consumer expectations about the economy and inflation. Lead team of three analysts to develop and maintain critical programs that produce public data as well as internal ad-hoc analyses.
-    \item Multiple blogs and research papers (\href{http://bit.ly/19dFTkh}{http://bit.ly/19dFTkh}) studying the effect of the recession and stimulus on school district finances.
+    \item Led team of three analysts to develop and maintain critical programs that produce public data from a monthly survey.
+    \item Multiple research papers and posts on the NY Fed blog (\href{http://bit.ly/19dFTkh}{http://bit.ly/19dFTkh}) studying the effect of the recession and stimulus on school district finances.
     \item Using GIS to map NYC public school closures and relocations after Superstorm Sandy; discussed results in a post on the NY Fed blog (\href{http://bit.ly/1eDE1Ja}{http://bit.ly/1eDE1Ja}).
-    \item Using regression discontinuity techniques to determine the effect of failing No Child Left Behind standards on schools' test scores in the following year.
     
     \end{itemize}
   \end{itemize}
 
   {\bf Argus Information and Advisory Services,} {\it Summer Analyst} \hfill Summer 2011
-  \begin{itemize} \itemsep -2pt
+  \begin{itemize} \itemsep 2.0pt
   \item Wrote SQL code to manipulate and segment large datasets (tens of millions of observations) using variables such as customer risk, behavior, and spending to find pockets of opportunity for client banks
-  \item Created final Excel and Powerpoint deliverables for monthly client presentations and ad-hoc analysis requests
-  \item Specific projects included \setlength{\parskip}{-1.75pt} \begin{itemize}
-      \setlength{\itemsep}{1.5pt}
-    \item Determining causes of credit card customer attrition and deleveraging through analysis of interest rates, credit lines, and rewards
-    \item Tracking performance of secured card customers and determining the effectiveness of the bank's attempts to retain them
-    \end{itemize}
+  %\item Determined causes of credit card customer attrition and deleveraging through analysis of interest rates, credit lines, and rewards
+  % \item Specific projects included \setlength{\parskip}{-1.75pt} \begin{itemize}
+  %     \setlength{\itemsep}{1.5pt}
+  %   \item Determining causes of credit card customer attrition and deleveraging through analysis of interest rates, credit lines, and rewards
+  %   \item Tracking performance of secured card customers and determining the effectiveness of the bank's attempts to retain them
+%    \end{itemize}
   \end{itemize}
 
-  {\bf Program on Terrorism and Insurgency Research,} {\it Research Assistant}  \hfill  September 2010 -- May 2011
-  \begin{itemize} \itemsep -2pt %reduce space between items
-  \item Collected and coded data on insurgency and counter-insurgency campaigns in order to produce a database of insurgency campaigns to be used for research in the counter-terrorism policy field
-  \item Parsed historical documents and primary sources to construct database of insurgency campaigns
+%  {\bf Program on Terrorism and Insurgency Research,} {\it Research Assistant}  \hfill  September 2010 -- May 2011
+%  \begin{itemize} \itemsep -2pt %reduce space between items
+%  \item Collected and coded data on insurgency and counter-insurgency campaigns in order to produce a database of insurgency campaigns to be used for research in the counter-terrorism policy field
+%  \item Parsed historical documents and primary sources to construct database of insurgency campaigns
     % \item Researched determinants of counterinsurgency policy
-  \end{itemize}
-
-  {\bf Internal Drive Tech Camps,} {\it Instructor} \hfill Summer 2010
-  \begin{itemize} \itemsep -2pt  % reduce space between items
-  \item Taught classes in introductory computer programming using Java to pre-teens and teenagers.
-  \end{itemize}
+%  \end{itemize}
   
-  \section{Selected Publications \& Working Papers} 
-  \href{http://bit.ly/Jcg8dC}{``Still Not Out of the Woods? New Jersey Schools during the Recession and Beyond,''} with Rajashri Chakrabarti (2013) (http://bit.ly/Jcg8dC). 
+  \section{Selected Publications} 
+  \href{http://bit.ly/20jcEax}{``Did Cuts in State Aid During the Great Recession Lead to Changes in Local Property Taxes?,''} with Rajashri Chakrabarti and Joydeep Roy, {\it Education Finance and Policy}, 9(4), pp. 383--416. Fall 2014.
 
-  ``The Impact of the Great Recession on School District Finances: Evidence from New York,'' with Rajashri Chakrabarti and Elizabeth Setren, {\it Economic Policy Review} (Forthcoming).
+  \href{http://nyfed.org/1WHN3d1}{``The Impact of the Great Recession on School District Finances: Evidence from New York,''} with Rajashri Chakrabarti and Elizabeth Setren, {\it Economic Policy Review}, 21(1), pp. 45--66. October 2015.
 
-  \href{http://bit.ly/1fFXJ3t}{``My Two (Per)cents: How Are American Workers Dealing with the Payroll Tax Hike?,''} with Basit Zafar and Wilbert van der Klaauw, {\it Liberty Street Economics Blog}, May 2013 (http://bit.ly/1fFXJ3t).
+  %\href{http://bit.ly/1fFXJ3t}{``My Two (Per)cents: How Are American Workers Dealing with the Payroll Tax Hike?,''} with Basit Zafar and Wilbert van der Klaauw, {\it Liberty Street Economics Blog}, May 2013.
 
   A complete list is available at: \href{http://maxlivingston.org}{maxlivingston.org}
+
+\section{Education} 
+ {\bf Columbia University (Non-degree),} New York, NY \hfill May 2013 -- December 2013
+ \begin{itemize} \itemsep -2pt
+ \item Graduate non-degree statistics coursework in Machine Learning and Probability.
+ \end{itemize}
+  {\bf Wesleyan University,} Middletown, CT \hfill September 2008 -- May 2012
+  \begin{itemize} \itemsep -2pt
+  \item Awarded High Honors in Economics for thesis analyzing the effect of teachers' unions on school district performance.
+  \item BA in Economics; Phi Beta Kappa, Dean's List
+  \end{itemize}
+
+  {\bf Stuyvesant High School,} New York, NY \hfill September 2004 -- June 2008
+
   \section{Skills}
   \begin{itemize} \itemsep -2pt
-  \item R, Stata, SQL, Python (incl. pandas+numpy), SAS, Java, GIS, \LaTeX, Git, Microsoft Excel, Powerpoint
-  %\item Conversational Mandarin
-    % \item Poker, Violin, French cuisine
+  \item Python (including numpy, scipy, pandas), Java, SQL, Stata, GIS, \LaTeX, Git
   \end{itemize}
 
 \end{resume} 
