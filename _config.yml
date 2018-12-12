@@ -2,7 +2,7 @@ name: "Max Livingston"
 description: ""
 markdown: kramdown
 url: http://localhost:4000
-pygments: true
+highlighter: pygments
 title: "Max Livingston"
 
 author:
