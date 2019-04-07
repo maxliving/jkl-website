@@ -11,7 +11,16 @@ I am currently a data scientist at [Freebird](http://getfreebird.com), where I m
 
 ---
 
-## Publications, Blogs, & Working Papers
+## Publications, Presentations, Blogs, & Working Papers
+
+#### Flight Disruptions
+* [Scaling Bayesian Inference: A Case Study](https://www.infoq.com/presentations/flight-bayesian-prediction) (slides and video),
+: Presented at 5th International Conference on Predictive Applications and APIs, Boston, October 2018.
+
+* [Prediction and Uncertainty Quantification of Daily Airport Flight Delays](http://proceedings.mlr.press/v82/vandal18a.html), 
+: with Thomas Vandal, Camen Piho, and Sam Zimmerman.
+: *Proceedings of The 4th International Conference on Predictive Applications and APIs*, in PMLR 82:45-51, 2018.
+
 
 #### Consumer Expectations
 * [(Unmet) Credit Demand of American Households](http://libertystreeteconomics.newyorkfed.org/2013/11/unmet-credit-demand-of-american-households.html),
